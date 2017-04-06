@@ -3,7 +3,7 @@ MY_CONSUMER_SECRET = 'qdISunrKmTNQewXrnoGq8IEId17Ee7T2nlMtGJkkQKlKeRKUAb'
 MY_ACCESS_TOKEN_KEY = '769250294349914113-lx4kf4J9MtGGg1BrNyowCdyhsraptSL'
 MY_ACCESS_TOKEN_SECRET = 'jcXtAQkO396tqmzFM6NwRxhK0b6onzXdC5z0iDhN8uvjf'
 
-SOURCE_ACCOUNTS = ['ChomskyQuuotes', 'AlanWattsDaily', 'TaoEssentials', 'lbtmst93', 'shamanabots', 'killmefam']
+SOURCE_ACCOUNTS = ['AlanWattsDaily', 'TaoEssentials', 'lbtmst93', 'shamanabots', 'killmefam']
 
 ODDS = 1
 ORDER = 3
