@@ -5,8 +5,8 @@ MY_ACCESS_TOKEN_SECRET = 'jcXtAQkO396tqmzFM6NwRxhK0b6onzXdC5z0iDhN8uvjf'
 
 SOURCE_ACCOUNTS = ['ChomskyQuuotes', 'AlanWattsDaily', 'TaoEssentials', 'lbtmst93', 'shamanabots']
 
-ODDS = 2
-ORDER = 3
+ODDS = 1
+ORDER = 2
 DEBUG = False
 STATIC_TEST = False
 TEXT_SOURCE = '.txt'
