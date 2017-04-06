@@ -7,7 +7,7 @@ SOURCE_ACCOUNTS = ['ChomskyQuuotes', 'AlanWattsDaily', 'TaoEssentials', 'lalisag
 
 ODDS = 2
 ORDER = 3
-DEBUG = True
+DEBUG = False
 STATIC_TEST = False
 TEXT_SOURCE = '.txt'
 TWEET_ACCOUNT = 'Lvnmvn'
