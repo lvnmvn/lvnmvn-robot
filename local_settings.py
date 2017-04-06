@@ -10,4 +10,4 @@ ORDER = 3
 DEBUG = True
 STATIC_TEST = False
 TEXT_SOURCE = '.txt'
-TWEET_ACCOUNT = 'lvnmvn'
+TWEET_ACCOUNT = 'Lvnmvn'
